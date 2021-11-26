@@ -17,4 +17,4 @@ hello world!!  hello git!
 hello world!!  hello git!
 hello world!!  hello git!
 hello world!!  hello git!  master 修改！！
-hello world!!  hello git!
+hello world!!  hello git!  hot-fix 冲突实验！！
